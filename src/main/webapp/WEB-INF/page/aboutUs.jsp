@@ -13,7 +13,7 @@
         <a href= "https://www.linkedin.com/in/shize-li-80164a192/" >Follow me via LinkedLin</a>
         <br>
         <br>
-        <a href= "https://github.com/lishize1234" >Code on GitHub</a>
+        <a href= "https://github.com/lishize1234/onlineShop" >Code on GitHub</a>
         <br>
         <h2> Thanks for viewing this project !</h2>
     </div>
